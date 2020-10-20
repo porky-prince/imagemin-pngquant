@@ -2,6 +2,7 @@
 
 > [Imagemin](https://github.com/imagemin/imagemin) plugin for [`pngquant`](https://github.com/kornelski/pngquant)
 
+> use https://npm.taobao.org/mirrors/pngquant-bin/ as downlaod source
 
 ## Install
 
